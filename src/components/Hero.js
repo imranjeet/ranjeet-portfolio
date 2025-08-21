@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-scroll';
-import { FiGithub, FiLinkedin, FiTwitter, FiMail } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiMail } from 'react-icons/fi';
 import { FiArrowDown } from 'react-icons/fi';
 
 const Hero = () => {

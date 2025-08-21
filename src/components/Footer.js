@@ -1,16 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FiGithub, FiLinkedin, FiTwitter, FiMail, FiHeart } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiMail, FiHeart } from 'react-icons/fi';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
   
-  const socialLinks = [
-    { icon: FiGithub, href: 'https://github.com/imranjeet', label: 'GitHub' },
-    { icon: FiLinkedin, href: 'https://linkedin.com/in/iamranjeet', label: 'LinkedIn' },
-    { icon: FiTwitter, href: 'https://twitter.com/iamranjeet', label: 'Twitter' },
-    { icon: FiMail, href: 'mailto:your.ranjeetkmr54321@gmail.com', label: 'Email' },
-  ];
+
 
   return (
     <footer className="bg-neutral-900 text-white">
