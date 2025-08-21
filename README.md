@@ -1,4 +1,4 @@
-# Your Name - Portfolio
+# Ranjeet - Portfolio
 
 A modern, responsive portfolio website built with React, showcasing my skills, projects, and professional experience.
 
@@ -175,4 +175,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Ranjeet Kumar**
