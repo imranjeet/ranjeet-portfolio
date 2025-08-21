@@ -87,12 +87,12 @@ app.post('/api/contact', async (req, res) => {
     const autoReplyOptions = {
       from: process.env.EMAIL_USER,
       to: email,
-      subject: 'Thank you for your message - Your Name',
+      subject: 'Thank you for your message - Ranjeet Kumar',
       html: `
         <h2>Thank you for reaching out!</h2>
         <p>Dear ${name},</p>
         <p>Thank you for your message. I have received your inquiry and will get back to you as soon as possible.</p>
-        <p>Best regards,<br>Your Name</p>
+        <p>Best regards,<br>Ranjeet Kumar</p>
         <hr>
         <p><em>This is an automated response. Please do not reply to this email.</em></p>
       `

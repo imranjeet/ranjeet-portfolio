@@ -19,6 +19,6 @@
     "nodemon": "^2.0.22"
   },
   "keywords": ["portfolio", "api", "express", "contact-form"],
-  "author": "Your Name",
+  "author": "Ranjeet Kumar",
   "license": "MIT"
 }

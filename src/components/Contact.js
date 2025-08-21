@@ -172,7 +172,7 @@ This message was sent from your portfolio contact form.
                     onChange={handleInputChange}
                     required
                     className="w-full px-4 py-4 border-2 border-neutral-200 rounded-xl focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-all duration-300 bg-neutral-50 focus:bg-white"
-                    placeholder="Your name"
+                    placeholder="Ranjeet Kumar"
                   />
                 </div>
                 
